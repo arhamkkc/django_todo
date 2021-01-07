@@ -1,0 +1,48 @@
+html{
+    background: #45d9c5;
+}
+
+.container-fluid{
+    background: #45d9c5;
+}
+
+.boxa{
+    background-color: #ff9305;
+    /* width: min-content; */
+    width: 500px;
+    height: 100px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.hello{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    padding-top: 19px;
+}
+.form_box{
+  text-align: center;
+}
+
+.task_box{
+    text-align: left;
+    margin-left: 30px;
+    /* background: red;
+     */
+    margin-right: 30px;
+
+}
+
+.task_box a{
+    float: right;
+    margin-right: 40px;
+}
+
+.task_box h4{
+    background:#ffb700;
+    border-radius: 5px;
+    /* margin-top: 50px; */
+}
